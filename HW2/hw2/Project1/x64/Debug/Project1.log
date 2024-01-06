@@ -1,0 +1,6 @@
+﻿  test.cpp
+I:\大二\資料結構\HW2\hw2\Project1\test.cpp(50,26): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+I:\大二\資料結構\HW2\hw2\Project1\test.cpp(185,21): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+I:\大二\資料結構\HW2\hw2\Project1\test.cpp(188,21): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+I:\大二\資料結構\HW2\hw2\Project1\test.cpp(164,10): warning C4101: 'start': 未參考的區域變數
+  Project1.vcxproj -> I:\大二\資料結構\HW2\hw2\x64\Debug\Project1.exe
